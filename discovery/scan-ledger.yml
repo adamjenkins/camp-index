@@ -38641,10 +38641,12 @@ repos:
     first-seen: '2026-07-23'
     last-checked: '2026-07-23'
   eadsuporte/moodle-local_gimidashboard:
-    outcome: exists
-    detail: component local_gimidashboard already registered (first-come, RFC §8)
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#199; source repository
+      since removed from public view)
+    component: local_gimidashboard
     first-seen: '2026-07-11'
-    last-checked: '2026-07-11'
+    last-checked: '2026-08-03'
   eadtech-moodle/moodle-media_cloudstudio:
     outcome: written
     detail: listed as media_cloudstudio
