@@ -4911,8 +4911,9 @@ repos:
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
   EduardoKrausME/moodle-auth_bruteforce:
-    outcome: exists
-    detail: component auth_bruteforce already registered (first-come, RFC §8)
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#196)
+    component: auth_bruteforce
     first-seen: '2026-07-11'
     last-checked: '2026-08-03'
   EduardoKrausME/moodle-availability_facial:
@@ -4921,15 +4922,17 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   EduardoKrausME/moodle-course_format_numeric:
-    outcome: exists
-    detail: component format_numeric already registered (first-come, RFC §8)
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#198)
+    component: format_numeric
     first-seen: '2026-07-11'
-    last-checked: '2026-07-23'
+    last-checked: '2026-08-03'
   EduardoKrausME/moodle-enrol_paymentpagseguro:
-    outcome: exists
-    detail: component enrol_paymentpagseguro already registered (first-come, RFC §8)
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#197)
+    component: enrol_paymentpagseguro
     first-seen: '2026-07-10'
-    last-checked: '2026-07-11'
+    last-checked: '2026-08-03'
   EduardoKrausME/moodle-lang-Curso--disciplina:
     outcome: no-version-php
     detail: no parseable version.php at root of branch master
@@ -4979,15 +4982,17 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   EduardoKrausME/moodle-local_kbi:
-    outcome: written
-    detail: listed as local_kbi
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#200)
+    component: local_kbi
     first-seen: '2026-07-11'
-    last-checked: '2026-07-11'
+    last-checked: '2026-08-03'
   EduardoKrausME/moodle-local_kdashboard:
-    outcome: written
-    detail: listed as local_kdashboard
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#201)
+    component: local_kdashboard
     first-seen: '2026-07-11'
-    last-checked: '2026-07-11'
+    last-checked: '2026-08-03'
   EduardoKrausME/moodle-local_kopere_bi:
     outcome: exists
     detail: component local_kopere_bi already registered (first-come, RFC §8)
@@ -5076,8 +5081,9 @@ repos:
     first-seen: '2026-07-11'
     last-checked: '2026-07-11'
   EduardoKrausME/moodle-theme_boost_learning:
-    outcome: written
-    detail: listed as theme_boost_learning
+    outcome: opted-out
+    detail: listing removed at maintainer request (camp-index#202)
+    component: theme_boost_learning
     first-seen: '2026-08-03'
     last-checked: '2026-08-03'
   EduardoKrausME/moodle-theme_boost_magnific:
