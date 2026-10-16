@@ -4,7 +4,8 @@ source-repo-id: 1402809717
 maintainers:
 - github: adamjenkins
 tier: 2
-status: active
+status: moved
+moved-to: adamjenkins/moodle-tool_bass
 discovered: '2026-10-03'
 releases:
 - version: 0.1.1
@@ -30,6 +31,6 @@ releases:
   published: '2026-10-04T13:43:08Z'
   released: '2026-10-04T11:48:15Z'
 license: GPL-3.0
-security-contact: https://github.com/adamjenkins/moodle-tool_quizbulkedit/security
+security-contact: https://github.com/adamjenkins/moodle-tool_bass/security
 labels:
 - fully-free
